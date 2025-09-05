@@ -29,6 +29,7 @@ On utilise Git/GitHub en entreprise et en cours afin de travailler plus efficace
 
 ## 4) Schéma simple à dessiner pour expliquer
 
+```
 Dépôt Git
 │
 ├── Branche principale (main/master)
@@ -36,3 +37,5 @@ Dépôt Git
 │
 └── Branche feature
 ├─ Commit A ── Commit B
+
+```
